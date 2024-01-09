@@ -75,9 +75,6 @@ const VideoPlayer = () => {
 
   return (
     <div>
-      {/* Input to allow users to select a video file */}
-
-      {/* Video element */}
       <video
         controls
         loop
